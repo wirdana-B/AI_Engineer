@@ -42,8 +42,6 @@ Tabel serupa ditampilkan untuk XGBoost dan LightGBM.
 ## Cara Menjalankan Notebook
 1. **Instal dependensi** (disarankan dalam environment conda baru):
    ```bash
-   conda create -n ml-env python=3.10 -y
-   conda activate ml-env
    pip install pandas scikit-learn imbalanced-learn xgboost lightgbm notebook
    ```
 2. **Jalankan JupyterLab / Notebook** di direktori proyek:
@@ -59,5 +57,3 @@ Tabel serupa ditampilkan untuk XGBoost dan LightGBM.
 └─ README.md                 # File ini
 ```
 
-## Lisensi
-Contoh pendidikan ini disediakan di bawah **Lisensi MIT**. Silakan gunakan, modifikasi, dan bagikan sesuai kebutuhan Anda.
